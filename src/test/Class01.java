@@ -8,5 +8,7 @@ public class Class01 {
 
         //Değiştirdim
         System.out.println("ben geldim");
+
+        System.out.println("Behiye");
     }
 }
