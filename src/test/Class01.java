@@ -5,5 +5,7 @@ public class Class01 {
         System.out.println("nesibe branşı açtım");
         System.out.println("nesibe yazdı");
         System.out.println("nesibe yazdı2");
+        System.out.println("nesibe yazdı3");
+
     }
 }
