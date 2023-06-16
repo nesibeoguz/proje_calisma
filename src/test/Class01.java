@@ -9,5 +9,6 @@ public class Class01 {
         //Değiştirdim
         System.out.println("yeni degisiklik");
 
+
     }
 }
