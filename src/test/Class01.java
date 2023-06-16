@@ -10,6 +10,7 @@ public class Class01 {
         System.out.println("aysegul");
         System.out.println("ben geldim");
         System.out.println("Behiye");
+        System.out.println("github");
 
     }
 }
