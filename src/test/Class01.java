@@ -2,10 +2,13 @@ package test;
 
 public class Class01 {
     public static void main(String[] args) {
-        System.out.println("nesibe branşı açtım");
 
+<<<<<<<<< Temporary merge branch 1
+=========
         System.out.println("aysegul");
 
         //Değiştirdim
+        System.out.println("ben geldim");
+>>>>>>>>> Temporary merge branch 2
     }
 }
