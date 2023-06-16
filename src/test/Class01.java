@@ -5,7 +5,7 @@ public class Class01 {
 
 
         System.out.println("aysegul");
-        ...
+       // ...
 
         //Değiştirdim
         System.out.println("ben geldim");
